@@ -63,7 +63,7 @@ namespace DuckList
 
             Console.WriteLine("\nSorted by size then kind:");
             foreach (Duck d in ducks)
-                Console.WriteLine(d); //Use overrriden method ToString()
+                d.Print();
 
             Console.ReadKey();
 
