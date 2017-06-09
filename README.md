@@ -1,5 +1,5 @@
 # IComparer
-A program showing hot to implement and use IComparer&lt;T> interface. Based on "Head First C#" book.
+A program showing hot to implement and use IComparer&lt;T> interface. Each Duck object has two properties: Kind and Size. A list of ducks is sorted based on their Kind, Size, Kind and Size, Size and Kind using comparers. Based on "Head First C#" book.
 
 ### Program.cs results:
 
